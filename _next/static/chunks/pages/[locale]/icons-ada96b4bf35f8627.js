@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[532],{6011:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/[locale]/icons",function(){return u(22663)}])}},function(n){n.O(0,[2083,6839,6468,1960,7963,5187,872,3825,7078,4408,5765,7825,7615,2888,9774,179],function(){return n(n.s=6011)}),_N_E=n.O()}]);
